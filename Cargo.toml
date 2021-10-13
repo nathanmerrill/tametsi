@@ -7,3 +7,5 @@ edition = "2018"
 
 [dependencies]
 bitvec = "0.22.3"
+steamlocate = "0.1.4"
+roxmltree = "0.14.1"
